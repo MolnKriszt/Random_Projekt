@@ -10,7 +10,7 @@ namespace veletlenTeszt
     static partial class MyRandom
     {
         //Juhász Gergő
-        static void veletlenSzoveg() {
+        public static void veletlenSzoveg() {
             Console.WriteLine("veletlenSzoveg");
         }
     }
