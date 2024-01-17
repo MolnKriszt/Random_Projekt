@@ -9,6 +9,6 @@ namespace veletlenTeszt
     //Véletlen számok
      static partial class MyRandom
     {
-
+        //Fehér György Márk
     }
 }
