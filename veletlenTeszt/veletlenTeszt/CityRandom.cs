@@ -9,5 +9,6 @@ namespace veletlenTeszt
     //Véletlen városok
     static partial class MyRandom
     {
+        //Juhász Gergő
     }
 }
