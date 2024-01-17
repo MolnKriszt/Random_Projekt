@@ -10,5 +10,9 @@ namespace veletlenTeszt
      static partial class MyRandom
     {
         //Fehér György Márk
+        static void VeletlenSzam()
+        {
+            Console.WriteLine("VéletlenSzám");
+        }
     }
 }
